@@ -1,0 +1,15 @@
+body{
+    background-color: #ffffff;
+   
+    background-size : cover;
+    height:100vh;
+
+    display :flex;
+    align-items:center ;
+    justify-content:center ;
+}
+
+#can{
+    background-color: #000;
+    margin-top: 10px;
+}
